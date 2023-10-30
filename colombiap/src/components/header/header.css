@@ -1,0 +1,46 @@
+
+#perfil{
+width: 50px;
+  top: calc(20px - 40px); 
+  left: calc(112% - 100px);
+}
+#logo{
+    width: 130px;
+    top: calc(10px - 20px); 
+    left: calc(5% - 10%);
+}
+
+ .Boton {
+  display: inline-block; 
+  padding: 10px 20px; 
+  text-decoration: none; /
+  color: #2f8ab8; /
+  background-color: #f2f4f5; /* Color de fondo del botón */
+  border: 2px solid #98c2e0; /* Borde del botón */
+  border-radius: 5px; /* Redondea las esquinas del botón */
+  transition: background-color 0.3s, color 0.3s; 
+   }
+   
+  .Boton:hover{
+    background-color: #4b8ec5; /* Cambia el color de fondo al pasar el mouse */
+    color: #f8f9fa; /* Cambia el color del texto al pasar el mouse */
+
+  }
+
+  .boton {
+    display: inline-block; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    color: #2f8ab8; 
+    background-color: #f2f4f5; /* Color de fondo del botón */
+    border: 2px solid #98c2e0; /* Borde del botón */
+    border-radius: 5px; /* Redondea las esquinas del botón */
+    transition: background-color 0.3s, color 0.3s; 
+     }
+     
+    .boton:hover{
+      background-color: #4b8ec5; /* Cambia el color de fondo al pasar el mouse */
+      color: #f8f9fa; /* Cambia el color del texto al pasar el mouse */
+  
+    }
+    

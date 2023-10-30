@@ -1,0 +1,25 @@
+
+    .ingreso {
+        padding: 2%;
+        font-size: 20px;
+        border-radius: 15px;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(120deg, rgba(3,36,0,1) 0%, rgba(9,121,16,1) 45%, rgba(48,255,0,1) 100%);
+        color: white;
+        text-decoration: none; 
+         }
+         
+         .Cancelar{ 
+        padding: 2%;
+        font-size: 20px;
+        border-radius: 15px;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        text-decoration: none; 
+         background: linear-gradient(120deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 45%, rgba(255,0,0,1) 100%);
+         
+        }
